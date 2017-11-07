@@ -19,7 +19,7 @@
             foreach($row as $value)
             {
                 $valueId++;
-                if ($valueId == 4)
+                if ($valueId == 3)
                 {
                     $stuid = $value;
                 }
